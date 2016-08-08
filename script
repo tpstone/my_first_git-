@@ -1,4 +1,6 @@
 $(funtion(){
-	
+	$('div').on('click', function(){
+		console.log("WAHOOOO BANANA");
+	});
 // WOOOOOHOOOOO
 });
